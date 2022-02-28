@@ -1,0 +1,301 @@
+html {
+    background: #0F0F0F;
+    overflow: visible
+}
+
+.theme-black a {
+    color: rgb(135, 116, 225);
+}
+
+.theme-black .md_modal_head,
+.theme-black .tg_head_split,
+.theme-black .tg_page_head .navbar-inverse {
+    background: rgb(33, 33, 33);
+}
+
+.theme-black .dropdown.open .tg_head_btn,
+.theme-black .im_message_reply_border,
+.theme-black .login_head_bg,
+.theme-black .tg_checkbox.tg_checkbox_on i.icon-checkbox-inner,
+.theme-black .tg_down_progress .progress-bar,
+.theme-black .tg_head_btn:hover,
+.theme-black .tg_radio.tg_radio_on i.icon-radio,
+.theme-black .tg_up_progress .progress-bar {
+    background: rgb(44, 44, 44);
+}
+
+.theme-black .active a.im_dialog .im_dialog_chat_from_wrap,
+.theme-black .active a.im_dialog .im_dialog_draft_from,
+.theme-black .active a.im_dialog .im_dialog_message,
+.theme-black .active a.im_dialog .im_short_message_media,
+.theme-black .active a.im_dialog .im_short_message_service,
+.theme-black .active a.im_dialog .im_short_message_text,
+.theme-black .media_modal_action_btn {
+    color: #fff
+}
+
+.theme-black .md-input-focused,
+.theme-black .tg_radio.tg_radio_on .icon-radio-outer {
+    border-color: #659e48
+}
+
+.theme-black .tg_head_btn,
+.theme-black .tg_page_head .navbar-inverse .navbar-quick-nav>li>a,
+.theme-black a:not(:hover).md_modal_action {
+    color: #ddf1e0
+}
+
+.theme-black .im_submit,
+.theme-black .im_submit:hover,
+.theme-black .tg_head_logo_dropdown .dropdown-menu>li>a {
+    color: #5ba356
+}
+
+.theme-black .btn-md,
+.theme-black .btn-md:focus,
+.theme-black .btn-md:hover,
+.theme-black .login_footer_wrap {
+    color: #659e48
+}
+
+.theme-black .btn-link,
+.theme-black .btn-link:focus,
+.theme-black .btn-link:hover,
+.theme-black .btn-md-primary,
+.theme-black .btn-md-primary:focus,
+.theme-black .btn-md-primary:hover,
+.theme-black .contacts_modal_contact_name,
+.theme-black .contacts_modal_members_list .active a.contacts_modal_contact .contacts_modal_contact_status,
+.theme-black .contacts_modal_members_list .active a.contacts_modal_contact .md_modal_list_peer_description,
+.theme-black .im_message_author,
+.theme-black .im_message_document_name,
+.theme-black .im_message_fwd_author,
+.theme-black .im_message_reply_author,
+.theme-black .im_start_btn,
+.theme-black .md_modal_list_peer_description.status_online,
+.theme-black .md_modal_list_peer_description .status_online,
+.theme-black a.contacts_modal_contact:hover .contacts_modal_contact_status,
+.theme-black a.contacts_modal_contact:hover .md_modal_list_peer_description,
+.theme-black a.im_dialog .im_dialog_chat_from_wrap,
+.theme-black a.im_dialog .im_short_message_media,
+.theme-black a.im_dialog .im_short_message_service {
+    color: #427b3c
+}
+
+.theme-black .contacts_modal_members_list a.contacts_modal_contact:hover,
+.theme-black .im_dialogs_scrollable_wrap a.im_dialog:hover,
+.theme-black .im_dialogs_scrollable_wrap a.im_dialog_selected,
+.theme-black .im_history_select_active .im_message_outer_wrap:hover,
+.theme-black .im_message_selected .im_message_outer_wrap,
+.theme-black .tg_head_logo_dropdown .dropdown-menu>li>a:hover {
+    background: rgb(44, 44, 44)
+}
+
+.theme-black .im_dialogs_scrollable_wrap .active a.im_dialog {
+    background: rgb(135, 116, 225);
+}
+
+.theme-black .contacts_modal_col .nano>.nano-pane,
+.theme-black .im_dialogs_modal_col .nano>.nano-pane,
+.theme-black .im_history_col .nano>.nano-pane,
+.theme-black .sessions_modal_col .nano>.nano-pane,
+.theme-black .stickerset_modal_col .nano>.nano-pane {
+    background: rgb(44, 44, 44);
+}
+
+.theme-black .contacts_modal_col .nano>.nano-pane>.nano-slider,
+.theme-black .im_dialogs_modal_col .nano>.nano-pane>.nano-slider,
+.theme-black .im_history_col .nano>.nano-pane>.nano-slider,
+.theme-black .sessions_modal_col .nano>.nano-pane>.nano-slider,
+.theme-black .stickerset_modal_col .nano>.nano-pane>.nano-slider {
+    background: rgba(137, 179, 150, .5)
+}
+
+.theme-black .audio_player_seek_slider .tg_slider_track_fill,
+.theme-black .btn-primary,
+.theme-black .tg_slider_thumb {
+    background-color: #5ba356
+}
+
+.theme-black .btn-primary {
+    color: #fff
+}
+
+.theme-black .btn-primary.active,
+.theme-black .btn-primary:active,
+.theme-black .btn-primary:focus,
+.theme-black .btn-primary:hover,
+.theme-black .open .btn-primary.dropdown-toggle {
+    background-color: #659e48
+}
+
+.theme-black .btn-link:focus,
+.theme-black .btn-link:hover,
+.theme-black .btn-md:hover {
+    background: #f2faf5
+}
+
+.theme-black .im_message_reply_wrap,
+.theme-black .media_modal_author {
+    color: inherit
+}
+
+.theme-black .media_modal_date,
+.theme-black a.media_modal_date:hover {
+    color: hsla(0, 0%, 100%, .4)
+}
+
+.theme-black .md_modal_list_peer_description,
+.theme-black a.im_dialog:hover .im_dialog_date,
+.theme-black a.im_dialog_selected .im_dialog_date {
+    color: #89b396
+}
+
+.theme-black .im_message_unread_split {
+    background: #f2faf5;
+    color: #89b396
+}
+
+.theme-black .composer_rich_textarea:focus,
+.theme-black .composer_textarea:focus {
+    box-shadow: 0 2px 0 0 #659e48
+}
+
+.theme-black .active .im_dialog_unread,
+.theme-black .im_dialog_unread,
+.theme-black a.im_dialog:hover .im_dialog_unread,
+.theme-black a.im_dialog_selected .im_dialog_unread {
+    background: #89b396
+}
+
+.theme-black .progress-arc-intermediate .progress-arc .progress-arc-bar {
+    stroke: #659e48 !important
+}
+
+.theme-black .video_modal_window .progress-arc-intermediate .progress-arc .progress-arc-bar {
+    stroke: #fff !important
+}
+
+.theme-black .navbar-toggle-wrap .navbar-toggle .icon-bar,
+.theme-black .tg_checkbox.tg_checkbox_on span.icon-checkbox-outer {
+    background-color: #ddf1e0
+}
+
+.theme-black.login-bg {
+    background-color: #e7f0ea
+}
+
+@media (min-width:481px) {
+
+    .theme-black .login_head_submit_btn,
+    .theme-black .login_head_submit_progress {
+        color: #fff
+    }
+}
+
+@media (max-width:480px) {
+
+    .theme-black .im_message_out .im_message_body,
+    .theme-black .im_message_out .im_message_body_media .im_message_audio,
+    .theme-black .im_message_out .im_message_body_media .im_message_document {
+        background: #ddf1e0
+    }
+
+    .theme-black .im_history_select_active .im_message_outer_wrap:hover .audio_player_duration,
+    .theme-black .im_history_select_active .im_message_outer_wrap:hover .audio_player_size,
+    .theme-black .im_history_select_active .im_message_outer_wrap:hover .im_message_document_size,
+    .theme-black .im_history_select_active .im_message_outer_wrap:hover .im_message_fwd_date,
+    .theme-black .im_message_focus .audio_player_duration,
+    .theme-black .im_message_focus .audio_player_size,
+    .theme-black .im_message_focus .im_message_document_size,
+    .theme-black .im_message_focus .im_message_fwd_date,
+    .theme-black .im_message_out .audio_player_duration,
+    .theme-black .im_message_out .audio_player_size,
+    .theme-black .im_message_out .im_message_document_size,
+    .theme-black .im_message_out .im_message_fwd_date,
+    .theme-black .im_message_selected .audio_player_duration,
+    .theme-black .im_message_selected .audio_player_size,
+    .theme-black .im_message_selected .im_message_document_size,
+    .theme-black .im_message_selected .im_message_fwd_date {
+        color: #89b396
+    }
+}
+
+.theme-black .poll-wrapper.answered .poll-list .tg_radio.tg_radio_on .icon-radio-outer,
+.theme-black .poll-wrapper.is-closed .poll-list .tg_radio.tg_radio_on .icon-radio-outer {
+    border-color: #427b3c
+}
+
+.theme-black .poll-wrapper.answered .poll-list .tg_radio.tg_radio_on i.icon-radio,
+.theme-black .poll-wrapper.is-closed .poll-list .tg_radio.tg_radio_on i.icon-radio {
+    background-color: #427b3c
+}
+
+.theme-black .poll-wrapper.answered .poll-list .tg_radio.tg_radio_on .tg_down_progress .progress-bar,
+.theme-black .poll-wrapper.answered .poll-list .tg_radio.tg_radio_on .tg_up_progress .progress-bar,
+.theme-black .poll-wrapper.is-closed .poll-list .tg_radio.tg_radio_on .tg_down_progress .progress-bar,
+.theme-black .poll-wrapper.is-closed .poll-list .tg_radio.tg_radio_on .tg_up_progress .progress-bar {
+    background: #427b3c
+}
+
+.theme-black .poll-wrapper.answered.is_quiz .poll-list.is_correct .tg_radio .icon-radio-outer,
+.theme-black .poll-wrapper.is-closed.is_quiz .poll-list.is_correct .tg_radio .icon-radio-outer {
+    border-color: #427b3c
+}
+
+.theme-black .poll-wrapper.answered.is_quiz .poll-list.is_correct .tg_radio i.icon-radio,
+.theme-black .poll-wrapper.is-closed.is_quiz .poll-list.is_correct .tg_radio i.icon-radio {
+    background-color: #427b3c
+}
+
+.theme-black .poll-wrapper.answered.is_quiz .poll-list.is_correct .tg_radio .tg_down_progress .progress-bar,
+.theme-black .poll-wrapper.answered.is_quiz .poll-list.is_correct .tg_radio .tg_up_progress .progress-bar,
+.theme-black .poll-wrapper.is-closed.is_quiz .poll-list.is_correct .tg_radio .tg_down_progress .progress-bar,
+.theme-black .poll-wrapper.is-closed.is_quiz .poll-list.is_correct .tg_radio .tg_up_progress .progress-bar {
+    background: #427b3c
+}
+
+.theme-black .modal-calender [ngbDatepickerDayView].bg-primary {
+    background-color: #5ba356
+}
+
+.theme-black .mention-text {
+    color: #427b3c
+}
+
+.im_dialogs_search_field {
+    height: 2.5rem;
+    margin-bottom: 0;
+    border: none !important;
+    border-radius: 1.375rem;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.im_dialogs_panel {
+    background: rgb(33, 33, 33);
+}
+
+.im_dialogs_col_wrap {
+    background: rgb(33, 33, 33);
+}
+
+.im_dialog_peer {
+    color: rgb(255, 255, 255) !important;
+}
+
+.im_content_message_wrap {
+    background: rgb(33, 33, 33);
+    padding: 1rem !important;
+    box-shadow: 0 1px 2px rgba(16, 16, 16, 0.611765);
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+    border-bottom-left-radius: 0.75rem;
+    border-bottom-right-radius: 0;
+}
+
+.im_history_pinned_wrap {
+    color: rgb(255, 255, 255) !important;
+    border-bottom: 0 !important;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25098);
+}
